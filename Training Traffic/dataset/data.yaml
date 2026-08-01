@@ -1,0 +1,12 @@
+path: dataset
+
+train: train/images
+val: valid/images
+
+names:
+  0: downstair
+  1: upstair
+  2: green_light
+  3: red_light
+  4: yellow_light
+  5: sidewalk
